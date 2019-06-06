@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的世界 on GFeather - 一个丧气满满的日苟少年</title>
+    <link>https://ehchhhhe.github.io/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</link>
+    <description>Recent content in 我的世界 on GFeather - 一个丧气满满的日苟少年</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Apr 2019 02:13:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://ehchhhhe.github.io/categories/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minecraft进度日志</title>
+      <link>https://ehchhhhe.github.io/post/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/minecraft%E8%BF%9B%E5%BA%A6%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Thu, 04 Apr 2019 02:13:48 +0800</pubDate>
+      
+      <guid>https://ehchhhhe.github.io/post/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/minecraft%E8%BF%9B%E5%BA%A6%E6%97%A5%E5%BF%97/</guid>
+      <description>建筑： 人工牧场 地下室仓库更新2.0 农场的外观部分 圈地改善地图结构 梅子树屋搭建 建立图书馆建设附魔台加书架 装备： 匠魂mod普及用法，人人自制工具</description>
+    </item>
+    
+    <item>
+      <title>Minecraft更新日志</title>
+      <link>https://ehchhhhe.github.io/post/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/minecraft%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</link>
+      <pubDate>Thu, 04 Apr 2019 02:10:55 +0800</pubDate>
+      
+      <guid>https://ehchhhhe.github.io/post/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/minecraft%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</guid>
+      <description>v1.2 mod包http://t.cn/EfuU6q5 mods文件解压缩至.minecraft\mods下 调整littleskin为全新外置登录系</description>
+    </item>
+    
+  </channel>
+</rss>
