@@ -2,219 +2,246 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GFeather - 一个丧气满满的日苟少年</title>
-    <link>https://ehchhhhe.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on GFeather - 一个丧气满满的日苟少年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Jun 2019 21:56:50 +0800</lastBuildDate>
     
-	<atom:link href="https://ehchhhhe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AospExtended</title>
-      <link>https://ehchhhhe.github.io/tags/aospextended/</link>
+      <link>http://localhost:1313/tags/aospextended/</link>
       <pubDate>Thu, 06 Jun 2019 21:56:50 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/aospextended/</guid>
+      <guid>http://localhost:1313/tags/aospextended/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://ehchhhhe.github.io/tags/english/</link>
+      <link>http://localhost:1313/tags/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/english/</guid>
+      <guid>http://localhost:1313/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://ehchhhhe.github.io/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Wed, 03 Apr 2019 19:30:18 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minecraft</title>
-      <link>https://ehchhhhe.github.io/tags/minecraft/</link>
+      <link>http://localhost:1313/tags/minecraft/</link>
       <pubDate>Thu, 04 Apr 2019 02:13:48 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/minecraft/</guid>
+      <guid>http://localhost:1313/tags/minecraft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://ehchhhhe.github.io/tags/syntax-highlighting/</link>
+      <link>http://localhost:1313/tags/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme preview</title>
-      <link>https://ehchhhhe.github.io/tags/theme-preview/</link>
+      <link>http://localhost:1313/tags/theme-preview/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/theme-preview/</guid>
+      <guid>http://localhost:1313/tags/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>preview</title>
-      <link>https://ehchhhhe.github.io/tags/preview/</link>
+      <link>http://localhost:1313/tags/preview/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/preview/</guid>
+      <guid>http://localhost:1313/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redmi note 7pro</title>
-      <link>https://ehchhhhe.github.io/tags/redmi-note-7pro/</link>
+      <link>http://localhost:1313/tags/redmi-note-7pro/</link>
       <pubDate>Thu, 06 Jun 2019 21:56:50 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/redmi-note-7pro/</guid>
+      <guid>http://localhost:1313/tags/redmi-note-7pro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://ehchhhhe.github.io/tags/shortcodes/</link>
+      <link>http://localhost:1313/tags/shortcodes/</link>
       <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-1</title>
-      <link>https://ehchhhhe.github.io/tags/tag-1/</link>
+      <link>http://localhost:1313/tags/tag-1/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/tag-1/</guid>
+      <guid>http://localhost:1313/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-2</title>
-      <link>https://ehchhhhe.github.io/tags/tag-2/</link>
+      <link>http://localhost:1313/tags/tag-2/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/tag-2/</guid>
+      <guid>http://localhost:1313/tags/tag-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-3</title>
-      <link>https://ehchhhhe.github.io/tags/tag-3/</link>
+      <link>http://localhost:1313/tags/tag-3/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/tag-3/</guid>
+      <guid>http://localhost:1313/tags/tag-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-4</title>
-      <link>https://ehchhhhe.github.io/tags/tag-4/</link>
+      <link>http://localhost:1313/tags/tag-4/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/tag-4/</guid>
+      <guid>http://localhost:1313/tags/tag-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag-5</title>
-      <link>https://ehchhhhe.github.io/tags/tag-5/</link>
+      <link>http://localhost:1313/tags/tag-5/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/tag-5/</guid>
+      <guid>http://localhost:1313/tags/tag-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://ehchhhhe.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+      <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
     <item>
       <title>刷机</title>
-      <link>https://ehchhhhe.github.io/tags/%E5%88%B7%E6%9C%BA/</link>
+      <link>http://localhost:1313/tags/%E5%88%B7%E6%9C%BA/</link>
       <pubDate>Thu, 06 Jun 2019 21:56:50 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E5%88%B7%E6%9C%BA/</guid>
+      <guid>http://localhost:1313/tags/%E5%88%B7%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>压膜保持器</title>
+      <link>http://localhost:1313/tags/%E5%8E%8B%E8%86%9C%E4%BF%9D%E6%8C%81%E5%99%A8/</link>
+      <pubDate>Sun, 11 Aug 2019 00:53:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8E%8B%E8%86%9C%E4%BF%9D%E6%8C%81%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口腔医学</title>
+      <link>http://localhost:1313/tags/%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6/</link>
+      <pubDate>Sun, 11 Aug 2019 00:53:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>在线编辑</title>
-      <link>https://ehchhhhe.github.io/tags/%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91/</link>
+      <link>http://localhost:1313/tags/%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91/</link>
       <pubDate>Wed, 03 Apr 2019 19:30:18 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91/</guid>
+      <guid>http://localhost:1313/tags/%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日志</title>
-      <link>https://ehchhhhe.github.io/tags/%E6%97%A5%E5%BF%97/</link>
+      <link>http://localhost:1313/tags/%E6%97%A5%E5%BF%97/</link>
       <pubDate>Thu, 04 Apr 2019 02:13:48 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E6%97%A5%E5%BF%97/</guid>
+      <guid>http://localhost:1313/tags/%E6%97%A5%E5%BF%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日本語</title>
-      <link>https://ehchhhhe.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+      <link>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <guid>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
       <description></description>
     </item>
     
     <item>
       <title>更新</title>
-      <link>https://ehchhhhe.github.io/tags/%E6%9B%B4%E6%96%B0/</link>
+      <link>http://localhost:1313/tags/%E6%9B%B4%E6%96%B0/</link>
       <pubDate>Thu, 04 Apr 2019 02:10:55 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E6%9B%B4%E6%96%B0/</guid>
+      <guid>http://localhost:1313/tags/%E6%9B%B4%E6%96%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>正畸</title>
+      <link>http://localhost:1313/tags/%E6%AD%A3%E7%95%B8/</link>
+      <pubDate>Sun, 11 Aug 2019 00:53:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%AD%A3%E7%95%B8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>流程图</title>
-      <link>https://ehchhhhe.github.io/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</link>
+      <link>http://localhost:1313/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</link>
       <pubDate>Thu, 04 Apr 2019 01:04:22 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</guid>
+      <guid>http://localhost:1313/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>测试</title>
-      <link>https://ehchhhhe.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
+      <link>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Thu, 04 Apr 2019 01:04:22 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     
     <item>
       <title>类原生</title>
-      <link>https://ehchhhhe.github.io/tags/%E7%B1%BB%E5%8E%9F%E7%94%9F/</link>
+      <link>http://localhost:1313/tags/%E7%B1%BB%E5%8E%9F%E7%94%9F/</link>
       <pubDate>Thu, 06 Jun 2019 21:56:50 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/tags/%E7%B1%BB%E5%8E%9F%E7%94%9F/</guid>
+      <guid>http://localhost:1313/tags/%E7%B1%BB%E5%8E%9F%E7%94%9F/</guid>
       <description></description>
     </item>
     

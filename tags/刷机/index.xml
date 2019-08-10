@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刷机 on GFeather - 一个丧气满满的日苟少年</title>
-    <link>https://ehchhhhe.github.io/tags/%E5%88%B7%E6%9C%BA/</link>
+    <link>http://localhost:1313/tags/%E5%88%B7%E6%9C%BA/</link>
     <description>Recent content in 刷机 on GFeather - 一个丧气满满的日苟少年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Jun 2019 21:56:50 +0800</lastBuildDate>
     
-	<atom:link href="https://ehchhhhe.github.io/tags/%E5%88%B7%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/%E5%88%B7%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Redmi  7 Pro  AospExtended 刷机指南</title>
-      <link>https://ehchhhhe.github.io/post/%E6%90%9E%E6%9C%BA%E6%97%A5%E8%AE%B0/aospextended/</link>
+      <title>Redmi Note 7 Pro  AospExtended 刷机指南</title>
+      <link>http://localhost:1313/post/brush-machine/aospextended/</link>
       <pubDate>Thu, 06 Jun 2019 21:56:50 +0800</pubDate>
       
-      <guid>https://ehchhhhe.github.io/post/%E6%90%9E%E6%9C%BA%E6%97%A5%E8%AE%B0/aospextended/</guid>
+      <guid>http://localhost:1313/post/brush-machine/aospextended/</guid>
       <description>声明本教程仅代表个人刷机心得，不代表适应所有手机。 如按照本指南导致刷机失败，请自行承担责任 刷机有风险，行事需谨慎 1.备份/准备相应文件 工欲兴</description>
     </item>
     
