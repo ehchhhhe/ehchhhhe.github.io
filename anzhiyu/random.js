@@ -1,3 +1,3 @@
-var posts=["2019/08/10/Essix-Retainer从入门到放弃/","2024/11/21/hello-world/","2024/11/21/幻兽帕鲁Linux下服务器部署/","2024/11/21/无版权图库/"];function toRandomPost(){
+var posts=["posts/9b8313e8.html","posts/4a17b156.html","posts/2e5b4759.html","posts/74db913a.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
